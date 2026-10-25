@@ -10,4 +10,4 @@ Coop-Ermittlungsspiel von Felix (flexibeel). Jeder Spieler sieht andere Hinweise
 
 Jeder öffnet nur seine eigene Seite. Die Lösung steckt nur als SHA-256-Wert in den Seiten. Notizen bleiben im eigenen Browser, online wird nichts gespeichert.
 
-Konzept und Quellen der Seiten: Repo `flexibeel/Grandline`, Zweig `feature/krimi-konzept` (`claude/PLAN-KRIMI.md`, `tools/krimi-papiertest-build.py`).
+Konzept: `claude/KONZEPT.md`, Stand und nächste Schritte: `claude/FAHRPLAN.md`, Arbeitsregeln für Claude: `CLAUDE.md`. Seiten erzeugt von `tools/papiertest-build.py`.
