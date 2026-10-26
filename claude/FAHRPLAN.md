@@ -2,7 +2,7 @@
 
 **Jeder neue Chat liest zuerst diese Datei** (und `CLAUDE.md`). Am Ende jedes Chats wird sie aktualisiert und mitgepusht.
 
-Stand: 25.10.2026 (1. Chat, ausgelagert aus dem Grandline-Chat, Sonnet/Opus).
+Stand: 26.10.2026. **Pausiert.** Felix war mit der Idee nicht zufrieden (gibt es schon, zu viel Lesen, Thema zieht nicht, kein Kribbeln). Stattdessen wird Grandline neu ausgerichtet (Repo `flexibeel/Grandline`, `claude/PLAN-NEUAUSRICHTUNG.md`). Die stärkste Idee von hier, **zeitversetzt zusammen spielen und jeder sieht etwas anderes**, wandert dorthin mit. Dieses Repo bleibt als Archiv, der Papiertest bleibt online.
 
 ## Worum es geht
 Coop-Ermittlungsspiel, cozy verpackt, ernste Fälle. 2 bis 4 Spieler, jeder hat eine Rolle und sieht **nur seine Hinweise**. Der größte Aha-Moment ist **der Widerspruch** zwischen Hinweisen verschiedener Spieler. Zeitversetzt spielbar über Tage (Felix und sein Kumpel wohnen 200 km auseinander). Alles Weitere: `claude/KONZEPT.md`.
@@ -41,4 +41,5 @@ Mischungen sind erlaubt (z. B. Puppenhaus-Querschnitt im Plakat-Stil). Die Skizz
 4. Danach M1: Fallgenerator mit Prüfer (Opus, ohne Oberfläche).
 
 ## Letzte Übergabe
+- 26.10.: Pausiert, siehe Stand oben. Nicht weiterbauen, außer Felix will es ausdrücklich.
 - 25.10. (1. Chat, gestartet im Grandline-Chat): Idee entwickelt, Konzept geschrieben, Papiertest Fall 01 gebaut und online gestellt, Marktcheck, drei eigenständige Looks skizziert. Nichts gebaut außer dem Papiertest. Nächstes: Look-Wahl, dann Rückmeldung zum Papiertest abwarten und weiter planen.
